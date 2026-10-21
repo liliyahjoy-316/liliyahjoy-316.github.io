@@ -1,5 +1,9 @@
 ---
-title: "liliyahjoy-316.github.io"
+title: "Liliyah-Joy Quel-Kaina"
+image: media/images.jpeg
+toc: false
+about:
+  template: trestles
 ---
 
 This is a Quarto website.
@@ -7,5 +11,6 @@ This is a Quarto website.
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
-1 + 1
+33 + 34
+
 ```
