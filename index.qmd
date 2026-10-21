@@ -4,6 +4,16 @@ image: media/images.jpeg
 toc: false
 about:
   template: trestles
+  #image-shape: round
+  image-width: 10cm
+  
+  links:
+    - icon: github
+      href: https://github.com/liliyahjoy-316
+      target: blank
+    - icon: linkedin
+      href: https://www.linkedin.com/in/liliyah-joy-quel-kaina-82461632b/?isSelfProfile=true 
+      target: blank
 ---
 
 This is a Quarto website.
