@@ -1,9 +1,10 @@
 ---
 title: "About"
+format: html
 ---
 
-About this site
+About six-sevn
 
 ```{r}
-1 + 1
+33 + 34
 ```
