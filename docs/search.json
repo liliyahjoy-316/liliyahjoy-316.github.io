@@ -4,13 +4,34 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About six-sevn\n\n33 + 34\n\n[1] 67"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Liliyah-Joy Quel-Kaina",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n33 + 34\n\n[1] 67"
+    "text": "This is a paragraph . It will be about me! Your welcome UwU\n\nTHis is an un ordered list\nhehe\n\n\nTHis is an ordered list\nhehehe"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download PDF file."
+  },
+  {
+    "objectID": "index.html#this-is-header-2",
+    "href": "index.html#this-is-header-2",
+    "title": "Liliyah-Joy Quel-Kaina",
+    "section": "",
+    "text": "This is a paragraph . It will be about me! Your welcome UwU\n\nTHis is an un ordered list\nhehe\n\n\nTHis is an ordered list\nhehehe"
+  },
+  {
+    "objectID": "index.html#this-is-header-2-uwu",
+    "href": "index.html#this-is-header-2-uwu",
+    "title": "Liliyah-Joy Quel-Kaina",
+    "section": "",
+    "text": "This is a paragraph . It will be about me! Your welcome UwU\n\nTHis is an un ordered list\nhehe\n\n\nTHis is an ordered list\nhehehe"
   }
 ]

@@ -3,12 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "Liliyah-Joy Quel-Kaina"
+  #title: "Liliyah-Joy Quel-Kaina"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resume.qmd
+      - icon: github
+        href: https://github.com/liliyahjoy-316
+        target: blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/liliyah-joy-quel-kaina-82461632b/?isSelfProfile=true 
+        target: blank
 
 format:
   html:

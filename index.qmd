@@ -16,11 +16,17 @@ about:
       target: blank
 ---
 
-This is a Quarto website.
+# This is header 1 UwU
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## This is header 2 UwU
 
-```{r}
-33 + 34
+### This is header 3 UwU
 
-```
+This is a paragraph . It will be about me! Your welcome [UwU](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Ftenor.com%2Fview%2F67-meme-gif-7990047724500372136&ved=0CBcQjRxqFwoTCKCnlLiI0ZcDFQAAAAAdAAAAABA4&opi=89978449)
+
+- THis is an un ordered list
+
+- hehe
+
+1.  THis is an ordered list
+2.  hehehe
