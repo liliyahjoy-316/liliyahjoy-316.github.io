@@ -16,7 +16,12 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/liliyah-joy-quel-kaina-82461632b/?isSelfProfile=true 
         target: blank
+  page-footer:
+    background: info
+    left: © Copyright 2026, Liliyah-Joy Quel-Kaina
+    right: This website is built with [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank}
 
+  
 format:
   html:
     theme:

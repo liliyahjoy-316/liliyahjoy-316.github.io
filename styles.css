@@ -3,6 +3,7 @@ h1, p {
   color: darkblue;
 }
 
+
 h2 {
   color: darkgreen;
 }
@@ -13,7 +14,7 @@ h3 {
 }
 
 body {
-  background-color: lightblue;
+  background-color: #EDF0F5;
 }
 
 ol, ul {

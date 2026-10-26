@@ -4,7 +4,7 @@ image: media/images.jpeg
 toc: false
 about:
   template: trestles
-  #image-shape: round
+  #image-shape: rounded
   image-width: 10cm
   
   links:
@@ -16,17 +16,12 @@ about:
       target: blank
 ---
 
-# This is header 1 UwU
+# Hello!
 
-## This is header 2 UwU
 
-### This is header 3 UwU
 
-This is a paragraph . It will be about me! Your welcome [UwU](https://www.ocearch.org/tracker/)
+### My name is Liliyah-Joy Quel-Kaina
 
-- THis is an un ordered list
+I’m a third-year at [Chaminade University of Honolulu](https://chaminade.edu). I'm currently pursuing a dual degree in Forensic Science and Data Science Analytics & Visualization. In addition to my dual degree, I'm also minoring in Chemistry and Criminal Justice & Criminology, with a certificate in criminology and criminal justice analytics and in health informatics and analytics. 
 
-- hehe
 
-1.  THis is an ordered list
-2.  hehehe
