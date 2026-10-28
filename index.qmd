@@ -23,7 +23,7 @@ about:
 # Hello! {෴ • マ
 
 
-### My name is Liliyah-Joy Quel-Kaina
+## My name is Liliyah-Joy Quel-Kaina
 
 
 I’m a third-year at [Chaminade University of Honolulu](https://chaminade.edu). I'm currently pursuing a dual degree in Forensic Science and Data Science Analytics & Visualization. In addition to my dual degree, I'm also minoring in Chemistry and Criminal Justice & Criminology.
