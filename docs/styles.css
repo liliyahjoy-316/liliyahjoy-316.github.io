@@ -5,11 +5,11 @@ h1, p {
 
 
 h2 {
-  color: darkgreen;
+  color: teal;
 }
 
 h3 {
-  color: teal;
+  color: lightblue;
   font-style: italic;
 }
 
@@ -18,7 +18,7 @@ body {
 }
 
 ol, ul {
-  color: Purple;
+  color: black;
   font-style: italic;
 }
 

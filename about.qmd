@@ -1,10 +1,31 @@
 ---
-title: "About"
-format: html
+title: "About Me! {෴ • マ"
+image: media/IMG_5347.jpeg
+toc: false
+about:
+  template: broadside
+  #image-shape: rounded
 ---
 
-About six-sevn
+- Female
+- 20
+- Pisces
+- Makaha raised 🌊🏄
 
-```{r}
-33 + 34
-```
+# ⊹ ࣪ ﹏﹏𓂁﹏﹏﹏𓂁﹏﹏﹏𓂁﹏﹏⊹
+
+## Education!
+
+- Dual degree in Forensic Science and Data Science Analytics & Visualization
+- Dual minor in Chemistry and Criminal Justice & Criminology
+- aspiration for a certificate in criminology and criminal justice analytics and in health information and analytics.
+
+# ⊹ ࣪ ﹏﹏𓂁﹏﹏﹏𓂁﹏﹏﹏𓂁﹏﹏⊹
+
+## Fun Facts
+
+- I LOVE SHARKS 🦈
+- I like baking bread ૮₍ ˶•⤙•˶ ₎ა.🥖
+- I play Slowpitch ⚾︎
+- I don't like chocolate
+- I have a Rottweiler named Thor 🐶🔨⚡

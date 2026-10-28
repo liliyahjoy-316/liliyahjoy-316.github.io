@@ -1,12 +1,14 @@
 ---
-title: "Liliyah-Joy Quel-Kaina"
+title: "𓂃𓂁𓂃 Liliyah-Joy Quel-Kaina 𓂃𓂄𓂃"
 image: media/images.jpeg
 toc: false
 about:
-  template: trestles
+  template: jolla
   #image-shape: rounded
-  image-width: 10cm
-  
+  image-shape: rectangle
+  image-width: 15cm
+
+
   links:
     - icon: github
       href: https://github.com/liliyahjoy-316
@@ -16,12 +18,13 @@ about:
       target: blank
 ---
 
-# Hello!
 
+
+# Hello! {෴ • マ
 
 
 ### My name is Liliyah-Joy Quel-Kaina
 
-I’m a third-year at [Chaminade University of Honolulu](https://chaminade.edu). I'm currently pursuing a dual degree in Forensic Science and Data Science Analytics & Visualization. In addition to my dual degree, I'm also minoring in Chemistry and Criminal Justice & Criminology, with a certificate in criminology and criminal justice analytics and in health informatics and analytics. 
 
+I’m a third-year at [Chaminade University of Honolulu](https://chaminade.edu). I'm currently pursuing a dual degree in Forensic Science and Data Science Analytics & Visualization. In addition to my dual degree, I'm also minoring in Chemistry and Criminal Justice & Criminology.
 
