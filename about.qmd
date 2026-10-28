@@ -1,28 +1,29 @@
 ---
-title: "About Me! {෴ • マ"
+title: "About"
 image: media/IMG_5347.jpeg
 toc: false
 about:
-  template: broadside
+  template: trestles
   #image-shape: rounded
 ---
+# About Me! {෴ • マ
 
 - Female
 - 20
 - Pisces
 - Makaha raised 🌊🏄
 
-# ⊹ ࣪ ﹏﹏𓂁﹏﹏﹏𓂁﹏﹏﹏𓂁﹏﹏⊹
+## ⊹ ࣪ ﹏﹏𓂁﹏﹏﹏𓂁﹏﹏⊹
 
-## Education!
+# Education!
 
 - Dual degree in Forensic Science and Data Science Analytics & Visualization
 - Dual minor in Chemistry and Criminal Justice & Criminology
-- aspiration for a certificate in criminology and criminal justice analytics and in health information and analytics.
+- Aspiration for a certificate in criminology and criminal justice analytics and in health information and analytics.
 
-# ⊹ ࣪ ﹏﹏𓂁﹏﹏﹏𓂁﹏﹏﹏𓂁﹏﹏⊹
+## ⊹ ࣪ ﹏﹏𓂁﹏﹏﹏𓂁﹏﹏⊹
 
-## Fun Facts
+# Fun Facts
 
 - I LOVE SHARKS 🦈
 - I like baking bread ૮₍ ˶•⤙•˶ ₎ა.🥖

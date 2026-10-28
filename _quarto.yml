@@ -19,8 +19,6 @@ website:
   page-footer:
     background: info
     left: © Copyright 2026, Liliyah-Joy Quel-Kaina
-    right: This website is built with [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank}
-
   
 format:
   html:
