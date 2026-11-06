@@ -10,6 +10,8 @@ website:
         text: Home
       - about.qmd
       - resume.qmd
+      - href: https://liliyahjoy-316.github.io/dashboards/
+        text: Dashboards
       - icon: github
         href: https://github.com/liliyahjoy-316
         target: blank
